@@ -10,16 +10,16 @@ const App = () => {
     const usersData = [
         {
             id: 1,
-            name: 'Tania',
-            username: 'floppydiskette'
+            name: 'Eli',
+            username: 'ProOwl'
         }, {
             id: 2,
-            name: 'Craig',
-            username: 'siliconeidolon'
+            name: 'Tod',
+            username: 'barnowls servant'
         }, {
             id: 3,
-            name: 'Ben',
-            username: 'benisphere'
+            name: 'Jake',
+            username: 'owlMaster'
         }
     ]
 
